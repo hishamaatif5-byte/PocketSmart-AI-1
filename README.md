@@ -28,4 +28,3 @@ A GenAI-powered web application using FastAPI, Google Gemini 1.5, and Jinja2 to 
 - **Image Handling:** Pillow (PIL)
 - **Frontend:** Jinja2, HTML5, CSS3
 - **Deployment Platform:** Render Cloud
-- 
