@@ -3,10 +3,7 @@
 ## Local Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/hishamaatif5-byte/PocketSmart-AI.git](https://github.com/hishamaatif5-byte/PocketSmart-AI.git)
-   cd PocketSmart-AI
-   
-
+   git clone [https://github.com/mageshvelkumar735-max/PocketSmart-AI.git]
 
 
 - *Date:* 29 September 2026
